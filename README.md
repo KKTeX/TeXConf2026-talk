@@ -6,6 +6,8 @@ TeXConf 2026（2026年11月21日）での KKTeX の発表資料です。
 
 ## 内容
 
+- [realtime-tex-preview.pdf](realtime-tex-preview.pdf) — スライド（PDF、65 枚）
+- [realtime-tex-preview.pptx](realtime-tex-preview.pptx) — スライド（PowerPoint）。アニメーション・画面切り替え・スピーカーノートは外してあります
 - [abstract.md](abstract.md) — 発表要旨
 
 ## 発表者
